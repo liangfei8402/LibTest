@@ -1,0 +1,13 @@
+﻿生成启动时间为 2016/7/19 13:18:41。
+     1>项目“E:\experiment\lib\lib\lib.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\program files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\lib.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+       Lib:
+         D:\program files\VC\bin\Lib.exe /OUT:"E:\experiment\lib\Debug\lib.lib" /NOLOGO Debug\stdafx.obj
+         lib.vcxproj -> E:\experiment\lib\Debug\lib.lib
+     1>已完成生成项目“E:\experiment\lib\lib\lib.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.73
